@@ -7,10 +7,10 @@
 
 - **University of Southern California**  : MS in Applied Economics and Econometrics (GPA 3.925/4.0 have to annouce💪)  
   - Dabbled in causal inference 🎯 and econometric modeling 📈.  
-  - Key project: [Maternal Smoking's Impact on Infant Birth Weight using IV regression](https://github.com/xia46268/Maternal-Smoking-Birthweight-IV-Analysis).  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+  - Key project: Maternal Smoking's Impact on Infant Birth Weight using [IV regression](https://github.com/xia46268/Maternal-Smoking-Birthweight-IV-Analysis).  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 - **Central University of Finance and Economics**  : Dual BA in Finance & Business Administration (💰)
-  - Experimented with Random Forest for stock selection 🌲💹, and the simulated annual return rate reached 49% (really?). ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  - Experimented with Random Forest for stock selection 🌲💹, and the simulated annual return rate reached 49% (really?). 
 
 🔬 **Research Highlights:**  
 - **Beyond Gaming**: Macau’s casino industry spillover analysis (OLS Time Series in Stata).  ![Stata](https://img.shields.io/badge/-Stata-1A2E54?style=flat&logo=stata&logoColor=white)
