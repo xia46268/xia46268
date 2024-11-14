@@ -30,5 +30,4 @@
 - Photography 📷 : [500px Portfolio](https://500px.com/p/xia46268?view=photos) | [YouTube Channel](https://www.youtube.com/@RongExpression)
 - Travelling 🌍 : 🇨🇳🇯🇵🇮🇩🇸🇬🇲🇾🇦🇪🇷🇺  🇫🇷🇨🇭🇩🇪🇦🇹🇭🇺🇨🇿🇸🇰🇬🇧🇳🇴🇬🇷🇱🇺  🇺🇸🇨🇦🇲🇽🇨🇺  🇦🇷🇦🇶  🇿🇦🇳🇦 | To be continued 🙋 -> 🇮🇸🇫🇴🇬🇱🇮🇹🇪🇸🇵🇹🇳🇱  🇵🇪🇧🇷  🇲🇺🇹🇿🇪🇬  🇳🇿🇦🇺
 
-📫 **Contact Me:**  
-[LinkedIn](https://www.linkedin.com/in/rong-xia-ba2622288/) | [Email](mailto:rx2255@columbia.edu)
+📫 **Contact Me:**  [LinkedIn](https://www.linkedin.com/in/rong-xia-ba2622288/) | [Email](mailto:rx2255@columbia.edu)
