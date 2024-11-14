@@ -27,8 +27,7 @@
 🏆 **Awards & Honors:**  
 - Scholarship recipient 🏅 for academic excellence (Top 0.5% in China Micro-Entrepreneurship Campaign).
 
-💻 **Technical Skills:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) | ![Stata](https://img.shields.io/badge/-Stata-1A2E54?style=flat&logo=stata&logoColor=white) | ![SPSS](https://img.shields.io/badge/-SPSS-003399?style=flat&logo=spss&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+💻 **Technical Skills:**  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) | ![Stata](https://img.shields.io/badge/-Stata-1A2E54?style=flat&logo=stata&logoColor=white) | ![SPSS](https://img.shields.io/badge/-SPSS-003399?style=flat&logo=spss&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
 
 📸 **Hobbies:**  
 - Photography 📷 : [500px Portfolio](https://500px.com/p/xia46268?view=photos) | [Youtube Channel](https://www.youtube.com/@RongExpression)
