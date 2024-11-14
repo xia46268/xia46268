@@ -3,7 +3,7 @@
 🎓 **Education:**  
 - **Columbia University**  
   MA in Quantitative Methods in Social Sciences (2024-2025)  
-  - Building ChatAnalyzer 🛠️: Sentiment analysis and data viz tool for chat data (Baidu NLP).  
+  - Building ChatAnalyzer 🛠️: Sentiment analysis and data viz tool for chat data (Baidu NLP)![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white).  
   - Exploring Financial Constraints 🔍 with PCA and loan demand models.  
 
 - **University of Southern California**  
