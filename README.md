@@ -7,7 +7,7 @@
   - Exploring Financial Constraints 🔍 with PCA and loan demand models.  
 
 - **University of Southern California**  
-  MS in Applied Economics and Econometrics (2022-2023, GPA 3.925/4.0)  
+  MS in Applied Economics and Econometrics (2022-2023, GPA 3.925/4.0 have to annouce!)  
   - Dabbled in causal inference 🎯 and econometric modeling 📈.  
   - Key project: Maternal Smoking's Impact on Infant Birth Weight using IV regression.  
 
