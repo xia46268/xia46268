@@ -1,4 +1,4 @@
-# Hi there, I'm Rong Xia! 👋
+# Hi there, I'm Rong Xia 🍤🌺🐛👻
 
 🎓 **Education:**  
 - **Columbia University**  : MA in Quantitative Methods in Social Sciences （Continuing...📑💻)  
@@ -9,7 +9,7 @@
   - Dabbled in causal inference 🎯 and econometric modeling 📈.  
   - Key project: [Maternal Smoking's Impact on Infant Birth Weight using IV regression](https://github.com/xia46268/Maternal-Smoking-Birthweight-IV-Analysis).  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
-- **Central University of Finance and Economics**  : Dual BA in Finance & Business Administration   
+- **Central University of Finance and Economics**  : Dual BA in Finance & Business Administration (💰)
   - Experimented with Random Forest for stock selection 🌲💹, and the simulated annual return rate reached 49% (really?). ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 🔬 **Research Highlights:**  
