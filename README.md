@@ -19,7 +19,7 @@
 - **Beyond Gaming**: Macau’s casino industry spillover analysis (OLS Time Series in Stata).  ![Stata](https://img.shields.io/badge/-Stata-1A2E54?style=flat&logo=stata&logoColor=white)
 - **[Second-Hand Market Innovations](https://github.com/xia46268/Innovative-SecondHand-Platform)**: Efficiency through second-price auctions + probability modeling in R.  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
-💼 **Professional Experience:**  
+💼 **Internship Experience:**  
 - **China Everbright Trust**: Managed $2.6B in securities, created analysis dashboards.  
 - **China Securities**: Consumer behavior insights for the automotive industry.  
 - **P&G**: Competitor and brand analysis for personal care products.
@@ -28,15 +28,12 @@
 - Scholarship recipient 🏅 for academic excellence (Top 0.5% in China Micro-Entrepreneurship Campaign).
 
 💻 **Technical Skills:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)  
-![Stata](https://img.shields.io/badge/-Stata-1A2E54?style=flat&logo=stata&logoColor=white)  
-![SPSS](https://img.shields.io/badge/-SPSS-003399?style=flat&logo=spss&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) | ![Stata](https://img.shields.io/badge/-Stata-1A2E54?style=flat&logo=stata&logoColor=white) | ![SPSS](https://img.shields.io/badge/-SPSS-003399?style=flat&logo=spss&logoColor=white) | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
 
 📸 **Hobbies:**  
 Photography 📷 | Travelling 🌍  
 [500px Portfolio](https://500px.com/p/xia46268?view=photos)
+[Youtube Channel](https://www.youtube.com/@RongExpression)
 
 📫 **Contact Me:**  
 - [LinkedIn](https://www.linkedin.com/in/rong-xia-ba2622288/)  
