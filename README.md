@@ -3,21 +3,21 @@
 🎓 **Education:**  
 - **Columbia University**  
   MA in Quantitative Methods in Social Sciences (2024-2025)  
-  - Building ChatAnalyzer 🛠️: Sentiment analysis and data viz tool for chat data (Baidu NLP).  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)Exploring Financial Constraints 🔍 with PCA and loan demand models.  
+  - Building [ChatAnalyzer](https://github.com/xia46268/ChatAnalyzer) 🛠️: Sentiment analysis and data viz tool for chat data (Baidu NLP).  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  - Exploring Financial Constraints 🔍 with PCA and loan demand models.  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 - **University of Southern California**  
   MS in Applied Economics and Econometrics (2022-2023, GPA 3.925/4.0 have to annouce!)  
-  - ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)Dabbled in causal inference 🎯 and econometric modeling 📈.  
-  - ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)Key project: Maternal Smoking's Impact on Infant Birth Weight using IV regression.  
+  - Dabbled in causal inference 🎯 and econometric modeling 📈.  
+  - Key project: [Maternal Smoking's Impact on Infant Birth Weight using IV regression](https://github.com/xia46268/Maternal-Smoking-Birthweight-IV-Analysis).  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 - **Central University of Finance and Economics**  
   Dual BA in Finance & Business Administration (2018-2022)  
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)Experimented with Random Forest for stock selection 🌲💹, and the simulated annual return rate reached 49% (really?).
+  - Experimented with Random Forest for stock selection 🌲💹, and the simulated annual return rate reached 49% (really?). ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 🔬 **Research Highlights:**  
-- ![Stata](https://img.shields.io/badge/-Stata-1A2E54?style=flat&logo=stata&logoColor=white)**Beyond Gaming**: Macau’s casino industry spillover analysis (OLS Time Series in Stata).  
-- ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)**Second-Hand Market Innovations**: Efficiency through second-price auctions + probability modeling in R.  
+- **Beyond Gaming**: Macau’s casino industry spillover analysis (OLS Time Series in Stata).  ![Stata](https://img.shields.io/badge/-Stata-1A2E54?style=flat&logo=stata&logoColor=white)
+- **[Second-Hand Market Innovations](https://github.com/xia46268/Innovative-SecondHand-Platform)**: Efficiency through second-price auctions + probability modeling in R.  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 💼 **Professional Experience:**  
 - **China Everbright Trust**: Managed $2.6B in securities, created analysis dashboards.  
