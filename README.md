@@ -1,18 +1,15 @@
 # Hi there, I'm Rong Xia! 👋
 
 🎓 **Education:**  
-- **Columbia University**  
-  MA in Quantitative Methods in Social Sciences (2024-2025)  
+- **Columbia University**  : MA in Quantitative Methods in Social Sciences   
   - Building [ChatAnalyzer](https://github.com/xia46268/ChatAnalyzer) 🛠️: Sentiment analysis and data viz tool for chat data (Baidu NLP).  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   - Exploring Financial Constraints 🔍 with PCA and loan demand models.  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- **University of Southern California**  
-  MS in Applied Economics and Econometrics (2022-2023, GPA 3.925/4.0 have to annouce!)  
+- **University of Southern California**  : MS in Applied Economics and Econometrics (GPA 3.925/4.0 have to annouce!)  
   - Dabbled in causal inference 🎯 and econometric modeling 📈.  
   - Key project: [Maternal Smoking's Impact on Infant Birth Weight using IV regression](https://github.com/xia46268/Maternal-Smoking-Birthweight-IV-Analysis).  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
-- **Central University of Finance and Economics**  
-  Dual BA in Finance & Business Administration (2018-2022)  
+- **Central University of Finance and Economics**  : Dual BA in Finance & Business Administration   
   - Experimented with Random Forest for stock selection 🌲💹, and the simulated annual return rate reached 49% (really?). ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 🔬 **Research Highlights:**  
