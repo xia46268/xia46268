@@ -13,7 +13,7 @@
   - Experimented with Random Forest for stock selection 🌲💹, and the simulated annual return rate reached 49% (really?). 
 
 🔬 **Research Highlights:**  
-- **Beyond Gaming**: Macau’s casino industry spillover analysis (OLS Time Series in Stata).  ![Stata](https://img.shields.io/badge/-Stata-1A2E54?style=flat&logo=stata&logoColor=white)
+- **Beyond Gaming**: [Macau’s casino industry spillover analysis](https://github.com/xia46268/Macau_Gaming_Spillover_Study) (OLS Time Series in Stata).  ![Stata](https://img.shields.io/badge/-Stata-1A2E54?style=flat&logo=stata&logoColor=white)
 - **[Second-Hand Market Innovations](https://github.com/xia46268/Innovative-SecondHand-Platform)**: Efficiency through second-price auctions + probability modeling in R.  ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 💼 **Internship Experience:**  
