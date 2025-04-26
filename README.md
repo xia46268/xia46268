@@ -4,6 +4,7 @@
 - **Columbia University**  : MA in Quantitative Methods in Social Sciences （Continuing...📑💻)  
   - [ChatAnalyzer](https://github.com/xia46268/ChatAnalyzer) 🛠️: Sentiment analysis and data viz tool for chat data (Baidu NLP).  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   - Exploring Financial Constraints 🔍 with PCA and loan demand models.  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  - [ForksAndWords](https://forksandwords-4trbwiyybkvjuhdskenzs.streamlit.app/) 🍟: Michelin-inspired NLP project blending topic modeling and map visualization.  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 - **University of Southern California**  : MS in Applied Economics and Econometrics (GPA 3.925/4.0 have to annouce💪)  
   - Dabbled in causal inference 🎯 and econometric modeling 📈.  
